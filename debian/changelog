@@ -1,3 +1,9 @@
+radvd (1:1.15+vyos1+helium1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Daniil Baturin <daniil@baturin.org>  Thu, 31 Jul 2014 21:29:02 +0200
+
 radvd (1:1.6-1.1) stable-security; urgency=high
 
   * Non-maintainer upload by the Security Team.

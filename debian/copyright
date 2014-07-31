@@ -1,19 +1,11 @@
 This is radvd.  It was originally packaged by Adam Heath, on Fri Aug  4 21:45:09 CDT 2000.
-and later maintained by Andreas Rottmann <rotty@debian.org>. Now it's maintained by Ghe Rivero <ghe@debian.org>
+and is now maintained by Andreas Rottmann <rotty@debian.org>.
 
-Upstream author: Pekka Savola <pekkas@netcore.fi>
-
-
-Copyright:  2001-2009 Pekka Savola 
-	    2001 Lars Fenneberg
-	    2001 Marko Myllynen 
-	    
+Packaging was modified for VyOS by Daniil Baturin <daniil@baturin.org>, 2014
 
 It was downloaded from 
 
-http://v6web.litech.org/radvd/dist/
-
-No modifications where needed for debian integration.
+https://github.com/reubenhwk/radvd
 
 The upstream copyright follows:
 
