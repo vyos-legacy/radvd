@@ -3,7 +3,8 @@ Section: net
 Priority: optional
 Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
 Standards-Version: 3.8.3
-Build-Depends: autotools-dev, debhelper (>= 7), cdbs, flex, bison
+Build-Depends: autotools-dev, debhelper (>= 7), cdbs, flex, bison,
+   libdaemon-dev
 
 Package: radvd
 Architecture: any
