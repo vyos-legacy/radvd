@@ -1,7 +1,7 @@
 Source: radvd
 Section: net
 Priority: optional
-Maintainer: Ghe Rivero <ghe@debian.org>
+Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
 Standards-Version: 3.8.3
 Build-Depends: autotools-dev, debhelper (>= 7), cdbs, flex, bison
 
