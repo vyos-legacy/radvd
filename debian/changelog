@@ -1,3 +1,9 @@
+radvd (1:1.15+vyos1+helium2) unstable; urgency=low
+
+  * Force release
+
+ -- Daniil Baturin <daniil@baturin.org>  Thu, 31 Jul 2014 22:23:04 +0200
+
 radvd (1:1.15+vyos1+helium1) unstable; urgency=low
 
   * New upstream release
