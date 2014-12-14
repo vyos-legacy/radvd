@@ -1,3 +1,9 @@
+radvd (1:1.15+vyos2+lithium1) unstable; urgency=low
+
+  * New branch
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sun, 14 Dec 2014 10:55:03 +0000
+ 
 radvd (1:1.15+vyos1+helium2) unstable; urgency=low
 
   * Force release
