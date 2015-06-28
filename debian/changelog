@@ -1,3 +1,10 @@
+radvd (1:1.15+vyos2+lithium2) unstable; urgency=low
+
+  [ Alex Harpin ]
+  * radvd: add dh_gencontrol to enable development builds
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sun, 28 Jun 2015 09:22:01 +0100
+ 
 radvd (1:1.15+vyos2+lithium1) unstable; urgency=low
 
   * New branch
